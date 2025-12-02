@@ -1,6 +1,6 @@
-Hi World 
+# Git commands
 
-commans
+##commands
 
 ```
 git initgit add
